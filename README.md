@@ -1,4 +1,8 @@
-<h1 align="center">Hola, soy Meikuto 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Meikuto+%F0%9F%91%8B;Full+Stack+Developer;Backend+%26+Frontend+Engineer;Laravel+%7C+Node.js+%7C+.NET;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <b>Desarrollador Full Stack</b> · QA · Mejora continua de procesos tecnológicos
@@ -12,7 +16,7 @@
 
 ---
 
-## 💫 Sobre mí
+## Sobre mí
 
 Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos.
 
@@ -57,7 +61,7 @@ Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
@@ -67,7 +71,7 @@ Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores
 
 ---
 
-## 🎮 Contribuciones
+##  Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph-dark.svg">
