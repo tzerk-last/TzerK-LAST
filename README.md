@@ -16,7 +16,7 @@
 
 ---
 
-##sobre mi
+## sobre mi
 
 Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos.
 
