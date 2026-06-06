@@ -1,58 +1,73 @@
-# 💫 About Me:
-Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos. Cuento con experiencia en el desarrollo de interfaces de usuario y servicios backend utilizando HTML, CSS, JavaScript, Node.js, PHP (Laravel), C# y .NET.<br><br>Me caracterizo por mi capacidad de adaptación a nuevos entornos, tecnologías y metodologías de trabajo, lo que me permite integrarme rápidamente a diferentes proyectos y equipos. Tengo interés en desarrollar soluciones funcionales, aprender nuevas tecnologías y participar activamente en todas las etapas del ciclo de vida del software.<br><br>Poseo conocimientos en desarrollo frontend y backend, integración y consumo de APIs, control de versiones, depuración de aplicaciones y validación de funcionalidades. Además, disfruto los procesos de pruebas y aseguramiento de calidad, identificando errores, verificando requisitos y proponiendo mejoras que contribuyan a la estabilidad y confiabilidad de los productos desarrollados.<br><br>Busco participar en proyectos donde pueda aportar tanto en el desarrollo como en la evaluación y optimización de soluciones digitales, contribuyendo a la entrega de software funcional y de calidad.<br>
+<h1 align="center">Hola, soy Meikuto 👋</h1>
 
+<p align="center">
+  <b>Desarrollador Full Stack</b> · QA · Mejora continua de procesos tecnológicos
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wenjinyu/) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tzerk-last&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/wenjinyu/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tzerk-last&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Sobre mí
 
+Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+Cuento con experiencia en interfaces de usuario y servicios backend con HTML, CSS, JavaScript, Node.js, PHP (Laravel), C# y .NET. Me adapto con rapidez a nuevos entornos, tecnologías y metodologías de trabajo.
 
-###
+Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores, verificar requisitos y proponer mejoras que contribuyan a la estabilidad y confiabilidad de los productos.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+> Busco participar en proyectos donde pueda aportar tanto en el desarrollo como en la evaluación y optimización de soluciones digitales.
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/snake-output/snake.svg" alt="Snake animation" />
+## 💻 Tech Stack
 
-###
+### Lenguajes
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/snake-output/snake.svg" alt="Snake animation" />
+### Frameworks & Runtime
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-###
+### Bases de datos
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/snake-output/snake.svg" alt="Snake animation" />
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=tzerk-last&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tzerk-last&theme=dark&hide_border=false&layout=compact" />
 </div>
 
-###
+---
+
+## 🎮 Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph-dark.svg">
@@ -60,46 +75,14 @@ Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la ca
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/snake-output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tzerk-last.tzerk-last&"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-**Hecho con 💜 por [Meikuto](raw.githack.com/TzerK-LAST/portafolio/refs/heads/main/portafolio/about.html)**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/main/capibara.png" 
-       alt="footer capibara" width="60%" " >
-</div>
-
-
-
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tzerk-last.tzerk-last" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/main/capibara.png" alt="footer capibara" width="40%" />
+  <br/><br/>
+  Hecho con 💜 por <a href="https://raw.githack.com/TzerK-LAST/portafolio/refs/heads/main/portafolio/about.html">Meikuto</a>
 </div>
