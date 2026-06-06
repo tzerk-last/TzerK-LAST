@@ -1,108 +1,21 @@
-<div align="center">
+# 💫 About Me:
+Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos. Cuento con experiencia en el desarrollo de interfaces de usuario y servicios backend utilizando HTML, CSS, JavaScript, Node.js, PHP (Laravel), C# y .NET.<br><br>Me caracterizo por mi capacidad de adaptación a nuevos entornos, tecnologías y metodologías de trabajo, lo que me permite integrarme rápidamente a diferentes proyectos y equipos. Tengo interés en desarrollar soluciones funcionales, aprender nuevas tecnologías y participar activamente en todas las etapas del ciclo de vida del software.<br><br>Poseo conocimientos en desarrollo frontend y backend, integración y consumo de APIs, control de versiones, depuración de aplicaciones y validación de funcionalidades. Además, disfruto los procesos de pruebas y aseguramiento de calidad, identificando errores, verificando requisitos y proponiendo mejoras que contribuyan a la estabilidad y confiabilidad de los productos desarrollados.<br><br>Busco participar en proyectos donde pueda aportar tanto en el desarrollo como en la evaluación y optimización de soluciones digitales, contribuyendo a la entrega de software funcional y de calidad.<br>
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Meikuto;Web+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wenjinyu/) 
 
-<details open> 
-<summary></summary>
-
-<br>
-
-<details>
-<summary><b>about me </b></summary>
-<br>
-<div align="left">
-
-Soy una persona con gusto por los videojuegos, pero también por el estudio de la estrategia, especialmente en obras como El arte de la guerra. Me atraen la lógica, el análisis y todo aquello que requiera reflexión, estructura y comprensión profunda de los espacios y las situaciones.
-
-</div>
-</details>
-
-<details>
-<summary><b>🛠️ Tecnologías</b></summary>
-<br>
-
-<div align="center">
-
-<p align="center">
-  <kbd>
-    <kbd>Lenguajes</kbd>
-    <br><br>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br><br>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br><br>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
-  </kbd>
-  <kbd>
-    <kbd>Herramientas</kbd>
-    <br><br>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" alt="Rider" title="Rider" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" title="Git" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
-  </kbd>
-</p>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>💭 Frase motivacional</b></summary>
-<br>
-
-<div align="center">
-
-<blockquote>
-"Sin importar la carta que la vida entregue, cada persona debe aprender a crear su propia magia."
-"La verdadera riqueza no se mide en dinero, sino en el conocimiento que somos capaces de adquirir y aplicar."
-</blockquote>
-
-</div>
-
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tzerk-last&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=tzerk-last&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<a href="mailto:kevinyuluo3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<img src="https://img.shields.io/badge/📍_Medellín-Colombia-FFD700?style=for-the-badge" alt="Ubicación" />
-
-<br><br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 **Hecho con 💜 por [Meikuto](raw.githack.com/TzerK-LAST/portafolio/refs/heads/main/portafolio/about.html)**
 
