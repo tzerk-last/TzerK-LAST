@@ -16,7 +16,9 @@
 
 ---
 
-## Sobre mí
+## 💫 Sobre mí
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=FFFFFF&center=false&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+enfocado+en+aplicaciones+web+de+calidad;Experiencia+en+HTML%2C+CSS%2C+JS%2C+Node.js%2C+Laravel%2C+C%23+y+.NET;Me+adapto+rapido+a+nuevos+entornos+y+tecnologias;Apasionado+por+el+QA+y+la+mejora+continua;Busco+proyectos+donde+aportar+y+seguir+creciendo" alt="Sobre mi typing" />
 
 Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos.
 
