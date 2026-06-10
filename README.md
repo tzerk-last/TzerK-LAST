@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Meikuto;Full+Stack+Developer;Backend+%26+Frontend+Engineer" alt="Typing SVG morado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meikuto;Full+Stack+Developer;Backend+%26+Frontend+Engineer" alt="Typing SVG purple" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Laravel+%7C+Node.js+%7C+.NET+%7C+React;Apasionado+por+la+calidad+del+software;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG blanco" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Laravel+%7C+Node.js+%7C+.NET+%7C+React;Passionate+about+software+quality;Always+learning+something+new" alt="Typing SVG white" />
 </h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack</b> · QA · Mejora continua de procesos tecnológicos
+  <b>Full Stack Developer</b> · QA · Continuous improvement of tech processes
 </p>
 
 <p align="center">
@@ -16,21 +16,21 @@
 
 ---
 
-## sobre mi
+## About me
 
-Desarrollador Full Stack enfocado en la construcción de aplicaciones web, la calidad de software y la mejora continua de procesos tecnológicos.
+Full Stack Developer focused on building web applications, software quality, and continuous improvement of technological processes.
 
-Cuento con experiencia en interfaces de usuario y servicios backend con HTML, CSS, JavaScript, Node.js, PHP (Laravel), C# y .NET. Me adapto con rapidez a nuevos entornos, tecnologías y metodologías de trabajo.
+I have experience building user interfaces and backend services with HTML, CSS, JavaScript, Node.js, PHP (Laravel), C# and .NET. I adapt quickly to new environments, technologies, and working methodologies.
 
-Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores, verificar requisitos y proponer mejoras que contribuyan a la estabilidad y confiabilidad de los productos.
+I enjoy testing and quality assurance processes: identifying bugs, verifying requirements, and proposing improvements that contribute to the stability and reliability of products.
 
-> Busco participar en proyectos donde pueda aportar tanto en el desarrollo como en la evaluación y optimización de soluciones digitales.
+> I'm looking to contribute to projects where I can add value both in development and in the evaluation and optimization of digital solutions.
 
 ---
 
 ## 💻 Tech Stack
 
-### Lenguajes
+### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -44,12 +44,12 @@ Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Bases de datos
+### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Herramientas
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -71,9 +71,9 @@ Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores
 
 ---
 
-##  Contribuciones
+## Contributions
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=FFFFFF&center=false&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+enfocado+en+aplicaciones+web+de+calidad;Experiencia+en+HTML%2C+CSS%2C+JS%2C+Node.js%2C+Laravel%2C+C%23+y+.NET;Me+adapto+rapido+a+nuevos+entornos+y+tecnologias;Apasionado+por+el+QA+y+la+mejora+continua;Busco+proyectos+donde+aportar+y+seguir+creciendo" alt="Sobre mi typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=FFFFFF&center=false&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+focused+on+quality+web+applications;Experience+in+HTML%2C+CSS%2C+JS%2C+Node.js%2C+Laravel%2C+C%23+and+.NET;I+adapt+quickly+to+new+environments+and+technologies;Passionate+about+QA+and+continuous+improvement;Looking+for+projects+where+I+can+contribute+and+keep+growing" alt="About me typing" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph-dark.svg">
@@ -90,5 +90,5 @@ Disfruto los procesos de pruebas y aseguramiento de calidad: identificar errores
   <br/><br/>
   <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/main/capibara.png" alt="footer capibara" width="40%" />
   <br/><br/>
-  Hecho con 💜 por <a href="https://raw.githack.com/TzerK-LAST/portafolio/refs/heads/main/portafolio/about.html">Meikuto</a>
+  Made with 💜 by <a href="https://raw.githack.com/TzerK-LAST/portafolio/refs/heads/main/portafolio/about.html">Meikuto</a>
 </div>
