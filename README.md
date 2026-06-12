@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.gif" width="100%">
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=2500&color=A855F7&center=true&vCenter=true&width=800&lines=Meikuto;Full+Stack+Developer;VS+Code+Extension+Developer;Laravel+%7C+.NET+%7C+React" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=3000&color=A855F7&center=true&vCenter=true&width=700&lines=Meikuto;Full+Stack+Developer;Developer+Tools+Builder" />
 </h1>
 
 <p align="center">
@@ -17,10 +21,10 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TzerK-LAST&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzerK-LAST&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TzerK-LAST&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzerK-LAST&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/pacman-output/pacman-contribution-graph-dark.svg">
 </p>
