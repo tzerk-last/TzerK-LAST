@@ -59,17 +59,8 @@ I enjoy testing and quality assurance processes: identifying bugs, verifying req
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tzerk-last&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=tzerk-last&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tzerk-last&theme=dark&hide_border=false&layout=compact" />
-</div>
-
----
 
 ## Contributions
 
