@@ -1,13 +1,12 @@
+
 <p align="center">
-  <img src="./assets/banner.gif" width="100%">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img src="./assets/banner.gif" width="900">
+  </a>
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=3000&color=A855F7&center=true&vCenter=true&width=700&lines=Meikuto;Full+Stack+Developer;Developer+Tools+Builder" />
-</h1>
-
+ 
 <p align="center">
-  Full Stack Developer • Backend Engineer • VS Code Extension Developer
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=A855F7&center=true&vCenter=true&width=800&lines=%3E+Full+Stack+Developer;%3E+Backend+Engineer;%3E+VS+Code+Extension+Developer;%3E+Building+Developer+Tools" />
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,react,js,html,css,mysql,postgres,mongodb,docker,git,github,vscode,rider" />
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,react,js,html,css,mysql,postgres,mongodb,docker,git,github,vscode,rider&perline=15" />
 </p>
 
 <p align="center">
@@ -26,5 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/pacman-output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/pacman-output/pacman-contribution-graph-dark.svg"/>
 </p>
+
