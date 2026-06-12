@@ -6,7 +6,7 @@
 </p>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=A855F7&center=true&vCenter=true&width=800&lines=%3E+Full+Stack+Developer;%3E+Backend+Engineer;%3E+VS+Code+Extension+Developer;%3E+Building+Developer+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=A855F7&center=true&vCenter=true&width=900&lines=%3E+Building+Web+Applications;%3E+Creating+REST+APIs;%3E+Developing+VS+Code+Extensions;%3E+Laravel+%7C+.NET+%7C+React" />
 </p>
 
 <p align="center">
