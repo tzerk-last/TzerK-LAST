@@ -1,85 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meikuto;Full+Stack+Developer;Backend+%26+Frontend+Engineer" alt="Typing SVG purple" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Laravel+%7C+Node.js+%7C+.NET+%7C+React;Passionate+about+software+quality;Always+learning+something+new" alt="Typing SVG white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=2500&color=A855F7&center=true&vCenter=true&width=700&lines=Meikuto;Full+Stack+Developer;Laravel+%7C+.NET+%7C+React" />
 </h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · QA · Continuous improvement of tech processes
+  Full Stack Developer • Backend Engineer
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wenjinyu/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <a href="[https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/wenjinyu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,react,js,html,css,mysql,postgres,mongodb,docker,git,github,vscode,rider" />
+</p>
 
-## About me
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TzerK-LAST&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzerK-LAST&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Full Stack Developer focused on building web applications, software quality, and continuous improvement of technological processes.
-
-I have experience building user interfaces and backend services with HTML, CSS, JavaScript, Node.js, PHP (Laravel), C# and .NET. I adapt quickly to new environments, technologies, and working methodologies.
-
-I enjoy testing and quality assurance processes: identifying bugs, verifying requirements, and proposing improvements that contribute to the stability and reliability of products.
-
-> I'm looking to contribute to projects where I can add value both in development and in the evaluation and optimization of digital solutions.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Runtime
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-
-## Contributions
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=FFFFFF&center=false&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+focused+on+quality+web+applications;Experience+in+HTML%2C+CSS%2C+JS%2C+Node.js%2C+Laravel%2C+C%23+and+.NET;I+adapt+quickly+to+new+environments+and+technologies;Passionate+about+QA+and+continuous+improvement;Looking+for+projects+where+I+can+contribute+and+keep+growing" alt="About me typing" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/snake-output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tzerk-last.tzerk-last" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/TzerK-LAST/TzerK-LAST/main/capibara.png" alt="footer capibara" width="40%" />
-  <br/><br/>
-  Made with 💜 by <a href="https://raw.githack.com/TzerK-LAST/portafolio/refs/heads/main/portafolio/about.html">Meikuto</a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzerk-last/tzerk-last/pacman-output/pacman-contribution-graph-dark.svg"/>
+</p>
